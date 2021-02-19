@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ProjectEuler
 {
@@ -12,19 +9,7 @@ namespace ProjectEuler
     ///</sumary>
     class Problem3
     {
-        public static bool Primo(int num)
-        {
-            int div = 0;
-            for (int i = 1; i <= num; i++)
-            {
-                if (num % i == 0)
-                {
-                    div++;
-                }
-            }
-            return div == 2; 
-        }
-
+        
         static void Main(string[] args)
         {
             long num = Convert.ToInt64(Console.ReadLine());
