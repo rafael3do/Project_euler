@@ -8,3 +8,4 @@
 <br>[Problem 3](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem3.cs).<br>
 <br>[Problem 4](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem4.cs).<br>
 <br>[Problem 5](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem5.cs).<br>
+<br>[Problem 6](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem6.cs).<br>
