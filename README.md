@@ -24,3 +24,4 @@
 <br>[Problem 19](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem19.cs).<br>
 <br>[Problem 20](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem20.cs).<br>
 <br>[Problem 21](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem21.cs).<br>
+<br>[Problem 22](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem22.cs).<br>
