@@ -31,3 +31,4 @@
 <br>[Problem 26](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem26.cs).<br>
 <br>[Problem 27](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem27.cs).<br>
 <br>[Problem 28](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem28.cs).<br>
+<br>[Problem 29](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem29.cs).<br>
