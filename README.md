@@ -44,4 +44,5 @@
 <br>[Problem 39](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem39.cs).<br>
 <br>[Problem 40](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem40.cs).<br>
 <br>[Problem 41](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem41.cs).<br>
+<br>[Problem 42](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem42.cs).<br>
 
