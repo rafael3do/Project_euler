@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ProjectEuler.Problem44</StartupObject>
+    <StartupObject>ProjectEuler.Problem45</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -86,6 +86,7 @@
     <Compile Include="Problem42.cs" />
     <Compile Include="Problem43.cs" />
     <Compile Include="Problem44.cs" />
+    <Compile Include="Problem45.cs" />
     <Compile Include="Problem5.cs" />
     <Compile Include="Problem6.cs" />
     <Compile Include="Problem7.cs" />
