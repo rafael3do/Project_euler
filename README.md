@@ -53,4 +53,5 @@
 <br>[Problem 48](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem48.cs).<br>
 <br>[Problem 49](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem49.cs).<br>
 <br>[Problem 50](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem50.cs).<br>
+<br>[Problem 51](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem51.cs).<br>
 
