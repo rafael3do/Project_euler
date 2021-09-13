@@ -1,5 +1,5 @@
 # Project_euler
- Solved exercises Project Euller in C#
+ Solved exercises Project Euller in <b>C#<b>
 <br>[Project Euler](https://projecteuler.net/archives)<br>
 
 
