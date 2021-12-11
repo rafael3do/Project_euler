@@ -12,3 +12,4 @@ C:\Users\1513 X-MXTI\Documents\GitHub\Project_euler\ProjectEuler\obj\Debug\Proje
 C:\Users\1513 X-MXTI\Documents\GitHub\Project_euler\ProjectEuler\obj\Debug\ProjectEuler.exe
 C:\Users\1513 X-MXTI\Documents\GitHub\Project_euler\ProjectEuler\obj\Debug\ProjectEuler.pdb
 C:\Users\1513 X-MXTI\Documents\GitHub\Project_euler\ProjectEuler\obj\Debug\ProjectEuler.csproj.AssemblyReference.cache
+C:\Users\1513 X-MXTI\Documents\GitHub\Project_euler\ProjectEuler\obj\Debug\ProjectEuler.csproj.SuggestedBindingRedirects.cache
