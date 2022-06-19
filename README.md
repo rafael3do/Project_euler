@@ -1,5 +1,5 @@
 # Project_euler
- Solved exercises Project Euller in C#
+ Solved exercises Project Euller in <b>C#<b>
 <br>[Project Euler](https://projecteuler.net/archives)<br>
 
 
@@ -42,4 +42,18 @@
 <br>[Problem 37](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem37.cs).<br>
 <br>[Problem 38](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem38.cs).<br>
 <br>[Problem 39](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem39.cs).<br>
+<br>[Problem 40](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem40.cs).<br>
+<br>[Problem 41](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem41.cs).<br>
+<br>[Problem 42](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem42.cs).<br>
+<br>[Problem 43](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem43.cs).<br>
+<br>[Problem 44](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem44.cs).<br>
+<br>[Problem 45](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem45.cs).<br>
+<br>[Problem 46](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem46.cs).<br>
+<br>[Problem 47](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem47.cs).<br>
+<br>[Problem 48](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem48.cs).<br>
+<br>[Problem 49](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem49.cs).<br>
+<br>[Problem 50](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem50.cs).<br>
+<br>[Problem 51](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem51.cs).<br>
+<br>[Problem 52](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem52.cs).<br>
+<br>[Problem 53](https://github.com/rafael3do/Project_euler/blob/main/ProjectEuler/Problem53.cs).<br>
 
